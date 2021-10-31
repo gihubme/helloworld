@@ -1,11 +1,10 @@
-/**
- * Created by jt on 2018-12-07.
- */
+
 public class HelloWorldTest {
 
     public void testHello(){
 
-        System.out.println("TEST - Hello...");
+        System.out.println("TEST - Hallo?...");
+
     }
 
     public void testWorld() {
