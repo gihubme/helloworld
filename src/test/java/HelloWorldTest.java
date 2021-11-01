@@ -1,10 +1,7 @@
-
 public class HelloWorldTest {
 
-    public void testHello(){
-
+    public void testHello() {
         System.out.println("TEST - Hallo?...");
-
     }
 
     public void testWorld() {
